@@ -1,0 +1,17 @@
+{
+  "name": "ejercitacion-de-autenticacion-con-jwt",
+  "version": "1.0.0",
+  "description": "El objetivo de esta ejercitación es que te familiarices con Node.js y Express, y practiques la creación de un servidor backend que implemente un sistema de gestión de tareas con autenticación y autorización utilizando JSON Web Tokens (JWT).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
